@@ -40,7 +40,7 @@ get domain data. Extensive experiments on three
 
 ## On the following tasks 📸
 
-- **CIFAR10** -> **ImageNet-C** (Standard/)
+- **CIFAR10** -> **ImageNet-C** (Standard)
 - **ImageNet** -> **ImageNet-w** (Standard)
 - **ImageNet** -> **ImageNet-R** (Standard)
 
