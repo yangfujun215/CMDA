@@ -37,3 +37,18 @@ get domain data. Extensive experiments on three
  challenges of test-time adaptation.
 
 ![图片](https://github.com/user-attachments/assets/c919d71d-b790-4789-bb07-d0d1b51f9001)
+
+## On the following tasks 📸
+
+- **CIFAR10** -> **ImageNet-C** (Standard/)
+- **ImageNet** -> **ImageNet-w** (Standard)
+- **ImageNet** -> **ImageNet-R** (Standard)
+
+## Compare this with the following methods 🌈
+
+- [MEMO](#)
+- [TENT](#)
+- [DiffPure](#)
+- [DDA](#)
+- [GDA](#)
+- [SDA](#)
