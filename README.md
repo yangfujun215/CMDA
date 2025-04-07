@@ -36,7 +36,8 @@ get domain data. Extensive experiments on three
  its effectiveness and robustness in addressing the
  challenges of test-time adaptation.
 
-![图片](https://github.com/user-attachments/assets/c919d71d-b790-4789-bb07-d0d1b51f9001)
+![994565b3151f4d8527371083a4afca2](https://github.com/user-attachments/assets/4cbb0316-efd0-4caf-b2e3-650af1e3f03a)
+
 
 ## On the following tasks 📸
 
