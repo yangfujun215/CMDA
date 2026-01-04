@@ -48,5 +48,5 @@ The code of Collaborative Model and Data Adaptation in Test Time.
 * Visualization: Grad-CAM results with prediction
 classes and confidence scores displayed above the images.
 <p align="center">
-![Uploading 图片.png…]()
+<img width="627" height="379" alt="图片" src="https://github.com/user-attachments/assets/63f8bc96-4056-45ac-a9c3-a85fdad24524" />
 </p>
