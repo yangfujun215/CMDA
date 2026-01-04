@@ -16,8 +16,8 @@ The code of Collaborative Model and Data Adaptation in Test Time.
 ## On the following tasks  
 
 - **CIFAR10** -> **ImageNet-C** (Standard)
-- **ImageNet** -> **ImageNet-w** (Standard)
 - **ImageNet** -> **ImageNet-R** (Standard)
+- **ImageNet** -> **ImageNet-W** (Standard)
 
 ## Compare this with the following methods 
 
