@@ -13,6 +13,7 @@ The code of Collaborative Model and Data Adaptation in Test Time.
 <p align="center">
 <img width="799" height="332" alt="图片" src="https://github.com/user-attachments/assets/5e300b5f-9d9a-4c66-9efe-d2f8e8cf4559" />
 </p>
+
 ## On the following tasks  
 
 - **CIFAR10** -> **ImageNet-C** (Standard)
