@@ -1,4 +1,4 @@
-## ✏️ Meeting Halfway: Collaborative Model and Data Adaptation in Test Time
+## ✏️ Collaborative Model and Data Adaptation at Test Time
 
 The code of Collaborative Model and Data Adaptation in Test Time
 
