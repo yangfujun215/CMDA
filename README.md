@@ -1,4 +1,4 @@
-## ✏️ Collaborative Model and Data Adaptation at Test Time
+## Collaborative Model and Data Adaptation at Test Time
 
 The code of Collaborative Model and Data Adaptation in Test Time.
 > *IEEE Transactions on Circuits and Systems for Video Technology* 
@@ -10,12 +10,13 @@ The code of Collaborative Model and Data Adaptation in Test Time.
 
 <img width="915" height="313" alt="CMDA2" src="https://github.com/user-attachments/assets/8f6f5afc-8282-402f-b49f-455f60440f28" />
 
+## On the following tasks  
 
 - **CIFAR10** -> **ImageNet-C** (Standard)
 - **ImageNet** -> **ImageNet-w** (Standard)
 - **ImageNet** -> **ImageNet-R** (Standard)
 
-## Compare this with the following methods 🌈
+## Compare this with the following methods 
 
 - [MEMO](#)
 - [TENT](#)
